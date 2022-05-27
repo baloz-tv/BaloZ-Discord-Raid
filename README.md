@@ -38,7 +38,8 @@
 - #### Allez dans le dossier téléchargé.
 - #### Exectuez le fichier `Installer`. Il va installer les dépendances nécessaires.
 - #### Allez dans le `config`:
-    - #### Token : Allez sur discord developpers et [récuperez le token de votre bot](https://i.imgur.com/adKT80V.png)
+    - #### Token : Allez sur discord developpers et récuperez le token de votre bot.
+![](https://i.imgur.com/adKT80V.png)
 - #### 
 - #### 
 - #### 

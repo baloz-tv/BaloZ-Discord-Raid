@@ -3,7 +3,7 @@
 
 > Le tool à été crée pour un usage éducatif, non criminel. Je nie toute responsabilité.
 
-[![texte alternatif de l'image](http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg)](https://www.youtube.com/watch?v=g7DpYWR8vqA "Titre de la video")
+[](https://youtu.be/fTIbYY5cihk)
 
 ## Fonctionalités : 
 - #### Créer énormément de salons avec ping `@everyone` ou non, 

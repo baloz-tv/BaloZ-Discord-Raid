@@ -4,10 +4,10 @@
 > Le tool à été crée pour un usage éducatif, non criminel. Je nie toute responsabilité.
 
 ## Fonctionalités : 
-- ### Créer énormément de salons avec ping `@everyone` ou non, 
-- ### Créer énormément de rôles,
-- ### Supprimer tout les salons, roles et plus...
-- ### Kick & Ban all.
+- #### Créer énormément de salons avec ping `@everyone` ou non, 
+- #### Créer énormément de rôles,
+- #### Supprimer tout les salons, roles et plus...
+- #### Kick & Ban all.
 
 ## Accédez à cette vidéo pour le tutoriel : `VIDEO` 
 

@@ -35,6 +35,13 @@
 ## Installation :
 - #### Allez sur Discord Developpers et créez un bot. Vous pouvez en utiliser un déjà crée.
 - #### Dans l'onglet bot, trouvez `Privileged Gateway Intents` et activez `PRESENCE INTENT` et `SERVER MEMBERS INTENT` et `MESSAGE CONTENT INTENT`.
+- #### Allez dans le dossier téléchargé.
+- #### Exectuez le fichier `Installer`. Il va installer les dépendances nécessaires.
+- #### Allez dans le `config`:
+    - #### Token : Allez sur discord developpers et [récuperez le token de votre bot](https://i.imgur.com/adKT80V.png)
+- #### 
+- #### 
+- #### 
 
 ![](/assets/images/github/intents.png)
 

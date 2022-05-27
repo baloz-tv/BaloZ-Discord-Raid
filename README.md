@@ -3,8 +3,7 @@
 
 > Le tool à été crée pour un usage éducatif, non criminel. Je nie toute responsabilité.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/ns7c69" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
+[![texte alternatif de l'image](http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg)](https://www.youtube.com/watch?v=g7DpYWR8vqA "Titre de la video")
 
 ## Fonctionalités : 
 - #### Créer énormément de salons avec ping `@everyone` ou non, 

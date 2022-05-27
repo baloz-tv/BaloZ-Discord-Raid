@@ -38,17 +38,22 @@
 - #### Allez dans le dossier téléchargé.
 - #### Exectuez le fichier `Installer`. Il va installer les dépendances nécessaires.
 - #### Allez dans le `config`:
-    - #### Token : Allez sur discord developpers et récuperez le token de votre bot.
+    - #### `token` : Allez sur discord developpers et récuperez le token de votre bot.
 ![](https://i.imgur.com/adKT80V.png)
-- #### 
-- #### 
-- #### 
+ - ####
+    - #### `prefix` : Préfixe des commandes.
+    - #### `userID` : Votre ID pour vous donner l'accès au commandes.
+    - #### `disableEveryone` : Permettre l'accès a tout le monde au commandes. Pour désactiver l'accès global, mettez la valeur `true`.
+    - #### Sauvegardez.
+- #### Lancez le bot avec `Launcher`.
 
 ![](/assets/images/github/intents.png)
 
+## Merci d'utiliser mon programme.
 
-
-
+#### [YouTube](https://www.youtube.com/c/BaloZ)
+#### [Twitter](https://www.twitter.com/officialbaloz)
+#### [Discord](https://discord.gg/zWPpBabVSe)
 
 ### Crédits : 
-##### ©BaloZRaid
+##### ©BaloZRaid, 2022.

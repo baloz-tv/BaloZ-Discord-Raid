@@ -7,6 +7,7 @@
 ## Téléchargement :
 - ### Versions 1 :
    - #### Version 1.21 : [*ici*](https://mega.nz/file/utIFxaAC#S__WVz23Xx5QjKSfAPrHHJQNe0U5onINlgSdUXAasq4) (mega.nz)
+   - #### Version 1.31 : [*ici*](https://mega.nz/file/m4wDiB5R#pAe9WmsLpMqFvy-4tIDH1_XSbm86NaiI4MJtkbLkBKA) (mega.nz)
 
 [*Vous pouvez trouver ici un exemple d'usage du bot*](https://youtu.be/fTIbYY5cihk)
 ##### *Vous devez obtenir une permission admin afin de faire rejoindre le bot.*

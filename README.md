@@ -9,6 +9,7 @@
 
 [*Vous pouvez trouver ici un exemple d'usage du bot*](https://youtu.be/fTIbYY5cihk)
 ##### *Vous devez obtenir une permission admin afin de faire rejoindre le bot.*
+###### *Si vous ne savez pas comment créer un bot discord et le faire rejoindre, venez sur* [*mon discord*](https://discord.gg/zWPpBabVSe)*.*
 
 ## Fonctionalités : 
 - #### Créer énormément de salons avec ping `@everyone` ou non, 

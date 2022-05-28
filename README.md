@@ -1,4 +1,4 @@
-# BaloZ Discord Raid 1.21
+# BaloZ Discord Raid 1.31
 ##### *`changelog.txt` pour l'historique des versions & changements !* 
 > Merci d'ajouter une *étoile* au projet pour me soutenir !
 

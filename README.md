@@ -8,6 +8,7 @@
 ### Téléchargement [*ici*](https://mega.nz/file/Sxg3QSia#F4YpAwiOSAEIA48viluGy2flq0bmytmzPVJV1Sa9Igw) (Mega)
 
 [*Vous pouvez trouver ici un exemple d'usage du bot*](https://youtu.be/fTIbYY5cihk)
+##### *Vous devez obtenir une permission admin afin de faire rejoindre le bot.*
 
 ## Fonctionalités : 
 - #### Créer énormément de salons avec ping `@everyone` ou non, 
@@ -48,6 +49,7 @@
     - #### `prefix` : Préfixe des commandes.
     - #### `userID` : Votre ID pour vous donner l'accès au commandes.
     - #### `disableEveryone` : Permettre l'accès a tout le monde au commandes. Pour désactiver l'accès global, mettez la valeur `true`.
+    - #### `statut` : Statut du bot. Ne pas indiquer que c'est un bot raid si c'est une attaque ! 
     - #### Sauvegardez.
 - #### Lancez le bot avec `Launcher`.
 

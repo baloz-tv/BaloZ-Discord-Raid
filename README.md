@@ -3,6 +3,7 @@
 
 > Le tool à été crée pour un usage éducatif, non criminel. Je nie toute responsabilité.
 
+[*Téléchargement ici*](https://1fichier.com/?t11mj5u21ljjlt2rkfnc)
 [*Vous pouvez trouver ici un exemple d'usage du bot*](https://youtu.be/fTIbYY5cihk)
 
 ## Fonctionalités : 

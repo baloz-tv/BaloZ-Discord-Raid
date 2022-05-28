@@ -4,8 +4,9 @@
 
 > Le tool à été crée pour un usage éducatif, non criminel. Je nie toute responsabilité.
 
-### Téléchargement :
-#### Version 1.21 : [*ici*](https://mega.nz/file/Tt4E3YIB#VUE0wTUIgCgMXr5tf9Gd61LYxGAq-YwuA00pSmG-Elo) (Mega)
+## Téléchargement :
+- ### Versions 1 :
+   - #### Version 1.21 : [*ici*](https://mega.nz/file/Tt4E3YIB#VUE0wTUIgCgMXr5tf9Gd61LYxGAq-YwuA00pSmG-Elo) (Mega)
 
 [*Vous pouvez trouver ici un exemple d'usage du bot*](https://youtu.be/fTIbYY5cihk)
 ##### *Vous devez obtenir une permission admin afin de faire rejoindre le bot.*

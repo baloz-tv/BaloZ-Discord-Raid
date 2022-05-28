@@ -51,7 +51,7 @@
     - #### Sauvegardez.
 - #### Lancez le bot avec `Launcher`.
 
-![](/assets/images/github/intents.png)
+![](https://i.imgur.com/zV1eRNc.png)
 
 ## Merci d'utiliser mon programme.
 

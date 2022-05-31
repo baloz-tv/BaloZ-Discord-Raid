@@ -1,2 +1,3 @@
 Version 1.21 : Version originale.
 Version 1.31 : Correction d'un bug majeur.
+Version 1.35 : Correction temporaire d'un bug du Installer : fix dès que possible.

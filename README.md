@@ -33,7 +33,7 @@
 - #### `!mb` : Ban All 
 - #### `!mk` : Kick Al
 
-## Accédez à cette vidéo pour le tutoriel : `[VIDEO](https://youtu.be/iD1nOjTJsEE)` 
+## Accédez à cette vidéo pour le tutoriel : [VIDEO](https://youtu.be/iD1nOjTJsEE)
 
 ##### Voici, au cas ou, un tutoriel écrit.
 
